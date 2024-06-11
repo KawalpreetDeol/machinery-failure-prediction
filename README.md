@@ -1,5 +1,5 @@
 # Predictive Maintenance using Machine Learning
-Machinery failure prediction using multiple Machine Learning Models
+Machinery failure prediction using multiple Machine Learning Models using Python, Tensorflow, Keras, Scikit-Learn, Pandas and NumPy in Jupyter Notebooks.
 
 ## Goal of the Project
 The goal of this project is to develop predictive maintenance models to estimate the Remaining Useful Life (RUL) of engines using the NASA Turbofan Engine Degradation Simulation Data Set. Different models are evaluated, including a Long Short-Term Memory (LSTM) neural network and a Random Forest regressor, to identify the best approach for this task.
