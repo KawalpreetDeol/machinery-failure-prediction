@@ -20,6 +20,9 @@ The dataset used in this project is the NASA Turbofan Engine Degradation Simulat
 - `test_FD004.txt`: Test data for the FD004 scenario.
 - `RUL_FD004.txt`: Remaining Useful Life for the test data in the FD004 scenario.
 
+### Citation
+`Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008). "Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation." In Proceedings of the 1st International Conference on Prognostics and Health Management (PHM08), Denver, CO, October 2008.`
+
 ## Data Tables
 Each file contains multiple columns representing various operational settings and sensor measurements over time for multiple engines:
 
