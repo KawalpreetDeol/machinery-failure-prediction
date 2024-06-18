@@ -1,5 +1,5 @@
 # Predictive Maintenance using Machine Learning
-Machinery failure prediction using multiple Machine Learning Models using Python, Tensorflow, Keras, Scikit-Learn, Pandas and NumPy in Jupyter Notebooks.
+Machinery failure prediction using multiple Machine Learning Models using Python, Tensorflow, Keras, XGBoost, Scikit-Learn, Pandas and NumPy in Jupyter Notebooks.
 
 ## Goal of the Project
 The goal of this project is to predict the remaining useful life (RUL) of turbofan engines using machine learning models. This project evaluates different models to find the most effective approach for predictive maintenance. The models used include:
