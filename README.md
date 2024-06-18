@@ -138,8 +138,8 @@ The results of the predictive maintenance models using the Long Short-Term Memor
 - **GBM (XGBoost)**: The XGBoost model showed promising results with a test RMSE of 47.51 and an R² of -0.31, leveraging its ability to handle various data types and hyperparameter tuning to improve predictive accuracy.
 
 ## Potential Improvements
-1. Increase Training Epochs: Extend the number of training epochs for the LSTM model to allow it to learn more effectively from the data.
-2. Hyperparameter Tuning: Conduct comprehensive hyperparameter tuning for both models, including adjustments to learning rates, layer sizes, and dropout rates for the LSTM, and tree depth, number of trees, and sample splits for the Random Forest.
-3. Regularization Techniques: Apply regularization methods such as dropout in the LSTM model to reduce overfitting and enhance generalization.
-4. Feature Engineering: Enhance feature engineering by incorporating additional aggregate features, lag features, and other transformations to better capture the temporal and operational dynamics in the dataset.
-5. Model Ensembling: Combine predictions from multiple models to improve accuracy.
+1. **Increase Training Epochs**: Extend the number of training epochs for the LSTM model to allow it to learn more effectively from the data.
+2. **Hyperparameter Tuning**: Conduct comprehensive hyperparameter tuning for both models, including adjustments to learning rates, layer sizes, and dropout rates for the LSTM, and tree depth, number of trees, and sample splits for the Random Forest.
+3. **Regularization Techniques**: Apply regularization methods such as dropout in the LSTM model to reduce overfitting and enhance generalization.
+4. **Feature Engineering**: Enhance feature engineering by incorporating additional aggregate features, lag features, and other transformations to better capture the temporal and operational dynamics in the dataset.
+5. **Model Ensembling**: Combine predictions from multiple models to improve accuracy.
